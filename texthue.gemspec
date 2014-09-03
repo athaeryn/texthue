@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["mike@mea.io"]
   spec.summary       = %q{Convert strings to hex colors.}
   spec.description   = %q{Convert strings to hex colors.}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/athaeryn/texthue"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
