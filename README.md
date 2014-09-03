@@ -1,4 +1,4 @@
-# Texthue
+# TextHue
 
 Converts strings to hex colors.
 
