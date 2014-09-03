@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'texthue/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "TextHue"
+  spec.name          = "texthue"
   spec.version       = TextHue::VERSION
   spec.authors       = ["Mike Anderson"]
   spec.email         = ["mike@mea.io"]
